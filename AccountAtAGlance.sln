@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountAtAGlance", "AccountAtAGlance\AccountAtAGlance.csproj", "{45344906-85CF-404C-82AC-6587D87D635E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountAtAGlance.Model", "AccountAtAGlance.Model\AccountAtAGlance.Model.csproj", "{22402907-2E37-412D-BB27-4201A26CA766}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountAtAGlance.Repository", "AccountAtAGlance.Repository\AccountAtAGlance.Repository.csproj", "{DC5727FB-0EEB-4642-805C-3C5CB1799184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45344906-85CF-404C-82AC-6587D87D635E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45344906-85CF-404C-82AC-6587D87D635E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45344906-85CF-404C-82AC-6587D87D635E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45344906-85CF-404C-82AC-6587D87D635E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22402907-2E37-412D-BB27-4201A26CA766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22402907-2E37-412D-BB27-4201A26CA766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22402907-2E37-412D-BB27-4201A26CA766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22402907-2E37-412D-BB27-4201A26CA766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC5727FB-0EEB-4642-805C-3C5CB1799184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC5727FB-0EEB-4642-805C-3C5CB1799184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC5727FB-0EEB-4642-805C-3C5CB1799184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC5727FB-0EEB-4642-805C-3C5CB1799184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.2\lib\NET35
+	EndGlobalSection
+EndGlobal
